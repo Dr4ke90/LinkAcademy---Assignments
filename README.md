@@ -1,1 +1,1 @@
-# LinkAcademy---Assignments
+# LinkAcademy-Assignments
