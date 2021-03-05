@@ -1,0 +1,15 @@
+Este necesar să se creeze un program JavaScript care să calculeze volumul cilindrului.
+
+Formula necesară pentru calcularea volumului cilindrului este:
+
+V = r2 * π * H
+
+r – raza bazei cilindrului 
+
+H – înălţimea
+
+π – constanta Pi, aproximativ 3,14
+
+Este necesar să se permită utilizatorului să introducă valorile razei și a înălțimii, 
+să efectueze calcule și să prezinte în final rezultatul într-un document HTML sau în 
+cadrul unei ferestre modale pentru afișarea mesajelor.
