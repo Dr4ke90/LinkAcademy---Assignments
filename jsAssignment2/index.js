@@ -1,12 +1,10 @@
 let button = document.querySelector("#button")
 button.addEventListener("click", calculate)
+let opr = document.querySelector(".opr")
 
-
-
-function calculate () {
+function calculate (opr) {
     let nr1 = document.querySelector(".nr1").value
     let nr2 = document.querySelector(".nr2").value
-    let opr = document.querySelector(".opr").value
     let result = document.querySelector("#result")
 
     if(opr == "+") {
